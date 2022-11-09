@@ -43,4 +43,4 @@ Welcome to `Wizbang's Worldly Wonders` aka (*`www`*), Now let's walk through the
   - Iterations
   - DOM Manipulation drawing templates
   
-[Prototype](https://www.figma.com/file/2pParpeSUFpfe87XY8R7al/CodeWorks-Tech-Night?node-id=0%3A1)
+[Prototype](https://www.figma.com/file/py9Znetef1cGWWz3fmyUR5/Wizbangs-Worldly-Wonders)
